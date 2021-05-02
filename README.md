@@ -13,7 +13,7 @@ webfortune provides a web frontend for the linux `fortune` and `cowsay` commands
 
 ## Operating webfortune from the command line
 ### Prerequisites
-To run the server, you must have `python3`, `pip3`, and `virtualenv` installed.
+To run the server, you must have `python3`, `pip3`, `virtualenv`, `cowsay` and `fortune` installed.
 
 ### Setup
 Clone this repository to the directory of your choice. Then enter that directory and create a virtual environment with the command `virtualenv -p python3 env`, then source that environment by running `source env/bin/activate`, and finally install dependencies by running `pip3 install -r requirements.txt`.
