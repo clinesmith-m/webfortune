@@ -41,4 +41,4 @@ To start the server, enter `docker run -dp <desired_port>:5000 webfortune`.
 To get the container ID of your running docker image, run `docker ps`. Then, to close the server, enter `docker stop <your_container_ID>`.
 
 ## Status badge
-![webfortune status](https://github.com/clinesmith-m/webfortune/tree/main/.github/workflows/badge.svg)
+![pytests](https://github.com/clinesmith-m/webfortune/actions/workflows/python-app.yml/badge.svg)
